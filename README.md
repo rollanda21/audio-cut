@@ -1,2 +1,2 @@
 # audio-cut
-Python script to cut split audio files
+Python script to split audio files
